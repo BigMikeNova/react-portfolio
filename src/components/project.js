@@ -3,10 +3,10 @@ import React from 'react';
 const Project = () => {
   const projects = [
     {
-      title: 'Project 1',
+      title: 'Beer Traveler',
       image: 'project1.jpg',
       deployedLink: 'https://project1.com',
-      githubLink: 'https://github.com/project1'
+      githubLink: 'https://github.com/jkrieger6/beer-traveler'
     },
     {
       title: 'Project 2',
