@@ -4,21 +4,21 @@ const Project = () => {
   const projects = [
     {
       title: 'Beer Traveler',
-      image: 'project1.jpg',
-      deployedLink: 'https://project1.com',
+      image: 'images/beer-traveler.jpg',
+      deployedLink: 'https://jkrieger6.github.io/beer-traveler/',
       githubLink: 'https://github.com/jkrieger6/beer-traveler'
     },
     {
-      title: 'Project 2',
-      image: 'project2.jpg',
-      deployedLink: 'https://project2.com',
-      githubLink: 'https://github.com/project2'
+      title: 'The Recipe Drawer',
+      image: 'images/foodbg.png',
+      deployedLink: 'https://the-recipe-drawer.herokuapp.com/',
+      githubLink: 'https://github.com/BigMikeNova/the-recipe-drawer'
     },
     {
-      title: 'Project 3',
-      image: 'project3.jpg',
-      deployedLink: 'https://project3.com',
-      githubLink: 'https://github.com/project3'
+      title: 'CSS CheatSheet',
+      image: 'images/HTML CSS.webp',
+      deployedLink: 'https://bigmikenova.github.io/CSS-Snippet-Cheatsheet/',
+      githubLink: 'https://github.com/BigMikeNova/CSS-Snippet-Cheatsheet'
     }
   ];
 
