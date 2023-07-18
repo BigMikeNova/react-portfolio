@@ -9,10 +9,10 @@
         "predeploy": "npm run build",
         "deploy": "gh-pages -d build"
     },
-    "homepage": "https://your-username.github.io/react-portfolio",
+    "homepage": "https://BigMikeNova.github.io/react-portfolio",
     "repository": {
         "type": "git",
-        "url": "https://github.com/your-username/react-portfolio.git"
+        "url": "https://github.com/BigMikeNova/react-portfolio.git"
     },
     "author": "Your Name",
     "license": "MIT",
